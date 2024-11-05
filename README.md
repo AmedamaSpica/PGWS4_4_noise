@@ -18,7 +18,7 @@ src フォルダをUnityで開きます。
 
 ![結果画像7](result_7.gif)
 
-![結果画像](result.gif)
+![結果画像](Movie_001.gif)
 
 ![シェーダグラフ](node_graph.png)
 
